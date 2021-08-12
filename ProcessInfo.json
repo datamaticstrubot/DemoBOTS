@@ -1,0 +1,45 @@
+{
+  "Name": "FTP Component Demo",
+  "Dependencies": {
+    "TruBot.Activities.Contracts": "4.7.1",
+    "TruBot.Activities.Design.Base": "4.7.1",
+    "TruBot.Recorder.Activities": "4.7.1",
+    "Trubot.Excel.Activities": "4.7.1",
+    "TruBot.ActiveDirectoryServices.Activities": "4.7.1",
+    "TruBot.Cockpit.Activities": "4.7.1",
+    "TruBot.Cryptography.Activities": "4.7.1",
+    "TruBot.Database.Activities": "4.7.1",
+    "TruBot.Email.Activities": "4.7.1",
+    "TruBot.FTP.Activities": "4.7.1",
+    "TruBot.GoogleApp.Activities": "4.7.1",
+    "TruBot.SAP.API.Activities": "4.7.1",
+    "TruBot.Web.Activities": "4.7.1",
+    "TruBot.WordDoc.Activities": "4.7.1",
+    "Trubot.Core.Activities": "4.7.1",
+    "TruBot.PDF.Activities": "4.7.1",
+    "TruBot.SalesforceCRM.Activities": "4.7.1",
+    "TruBot.Microsoft365.Activities": "4.7.1",
+    "TruBot.QRCode.Activities": "4.7.1"
+  },
+  "Description": "FTP Component Demo",
+  "Main": "Default.xaml",
+  "SchemaVersion": "4.7.1.9948",
+  "StudioVersion": "4.7.1.9948",
+  "ProjectVersion": "1.0.0.0",
+  "RuntimeOptions": null,
+  "ProjectType": "Workflow",
+  "OutputFileName": "AgentOP.txt",
+  "WorkflowDocumentList": [
+    {
+      "WorkflowName": "Default.xaml"
+    }
+  ],
+  "ExternalReferencesList": [],
+  "CreatedDateTime": "09-07-2021 17:05:17",
+  "ModifiedDateTime": "09-07-2021 17:05:18",
+  "IsDependencyUpdated": true,
+  "NativePlayback": true,
+  "Selector": true,
+  "MainExceptionHandler": "",
+  "ExceptionHandlerList": []
+}
